@@ -1,0 +1,192 @@
+body{
+    background-color: gainsboro;
+    font-family: Roboto, -apple-system, BlinkMacSystemFont, Segoe UI,
+    Helvetica Neue, Arial, sans-serif;
+    place-items: center;
+    font-size: small;
+}
+
+
+
+.official_delivery{
+    display: flex;
+    padding-top: 20px;
+    padding-left: 35px;
+    gap: 9px; 
+}
+.fsfs{
+    flex: 0.7;
+    background-color: white;
+    height: 99vh;
+    border-radius: 7px;
+    place-items: center;
+}
+.drdr{
+    
+    background-color: white;
+    height: 856px;
+    width: 300px;
+    border-radius: 7px;
+    place-items: center;
+
+}
+
+.down{
+    display: flex;
+}
+
+.title{
+    display: flex;
+    
+}
+
+.color{
+    color: chocolate;
+}
+
+.hads{
+    display: grid;
+}
+
+.like{
+    display: block;
+    place-items: center;
+}
+
+.like>button{
+    border: none;
+    color: white;
+}
+
+button>:hover{
+    cursor: pointer;
+}
+
+.off{
+    background-color: rgb(16, 78, 148);
+}
+
+.cra{
+    background-color: orange;
+}
+.osos{
+    display: flex;
+    gap: 20px;
+    padding-top: 15px;
+}
+
+.icon{
+    padding-left: 750px;
+    color: orange;
+    
+}
+
+.icon>:hover{
+   box-shadow: orange;
+}
+
+
+
+.brands{
+    display: flex;
+}
+
+.input_field{
+    display: grid;
+    text-align: center;
+    height: 55px;
+    width: 95px;
+}
+
+
+ .feild{
+    place-items: center;
+    
+    
+ } 
+ 
+ .stars{
+    display: flex;
+ }
+ 
+ .click{
+    background-color: orange;
+    height: 55px;
+    width: 599px;
+    border-radius: 10px;
+    
+    
+ }
+
+ .free_delivery {
+    height: 60px;
+    width: 100%;
+    background-color: orange;
+    display: flex;
+    place-content: center;
+  }
+  .free_delivery > img {
+    height: 60px;
+    width: 50%;
+  }
+  
+  .search_field {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    background-color: white;
+  }
+  .search_field > img {
+    height: 80px;
+    width: 120px;
+  }
+  .search_field > input {
+    height: 35px;
+    width: 40%;
+    border: 1px solid #a3a3a6;
+    border-radius: 5px;
+  }
+  .search_field > button {
+    height: 40px;
+    border-radius: 5px;
+    background-color: orange;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+  }
+
+  .mimo{
+    padding-left: 20px;
+  }
+  .mimo > button{
+    background-color: transparent;
+    border: none;
+    
+  }
+
+  .truck > .icon{
+    background-color: orange;
+  }
+
+  .incorrect{
+    margin-bottom: 100%;
+  }
+
+  .product{
+    background-color: white;
+    width: 65%;
+    border-radius: 7px;
+    place-items: center;
+    align-items: center;
+    
+  }
+
+.media{
+    text-align: center;
+}
+
+.vid{
+    align-items: center;
+}
+  
